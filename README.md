@@ -1,6 +1,6 @@
 # Hi, I'm Junior Felix
 
-I'm a passionate software developer based in Nairobi, Kenya. My journey in the tech world has led me to explore various technologies, with a recent focus on **React.js**. I've also worked on full-stack Node.js/Express applications and have experience building **GraphQL APIs**. Additionally, I enjoy sharing my knowledge through technical blog posts.
+I'm a passionate software developer. My journey in the tech world has led me to explore various technologies, with a recent focus on **React.js**. I've also worked on full-stack Node.js/Express applications and have experience building **GraphQL APIs**. Additionally, I enjoy sharing my knowledge through technical blog posts.
 
 ## 🚀 What I Do
 
